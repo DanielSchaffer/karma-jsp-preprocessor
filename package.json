@@ -1,0 +1,19 @@
+{
+  "name": "karma-jsp-preprocessor",
+  "description": "A simple parser and view engine for JSP",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielSchaffer/karma-jsp-preprocessor.git"
+  },
+  "dependencies": {
+    "node-jsp": "0.0.3"
+  },
+  "devDependencies": {
+    "chai": "~2.1.1",
+    "grunt": "~0.4.5",
+    "jshint": "~2.6.3",
+    "mocha": "~2.2.1",
+    "q": "~2.0.3"
+  }
+}
